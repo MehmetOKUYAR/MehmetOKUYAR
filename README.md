@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mehmet%20OKUYAR&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Edge%20AI&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Mehmet%20OKUYAR&fontSize=56&fontColor=FFFFFF&fontAlignY=32&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning%20%C2%B7%20Edge%20AI&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/MehmetOKUYAR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=2C9BF0&center=true&vCenter=true&width=760&lines=AI+%26+Software+Development+Mgr.+%40+ProSicht;MSc+in+Computer+Engineering;Turning+pixels+into+production-grade+decisions;Real-time+detection%2C+tracking+%26+segmentation+on+the+edge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=2C9BF0&center=true&vCenter=true&width=780&lines=AI+%26+Software+Development+Manager+%40+Pro+Sicht;MSc+Computer+Engineering+%C2%B7+Sakarya+%2B+%C3%93buda;Turning+pixels+into+production-grade+decisions;Real-time+detection%2C+tracking+%26+segmentation+on+the+edge" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/mehmet-okuyar-ab8813139"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mehmet-okuyar-ab8813139/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@mhmtokyr"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:mhmtokyr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/MehmetOKUYAR?tab=followers"><img src="https://img.shields.io/github/followers/MehmetOKUYAR?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="Followers" /></a>
-<a href="https://github.com/MehmetOKUYAR?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Repositories-47-2C9BF0?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=MehmetOKUYAR&style=for-the-badge&color=2C9BF0&label=Profile+Views" alt="Profile Views" />
 
 </div>
@@ -23,16 +24,18 @@ I build **computer vision systems that actually ship** — from dataset creation
 
 ```yaml
 name:      Mehmet OKUYAR
-role:      AI & Software Development Mgr. @ ProSicht
-education: MSc, Computer Engineering
-focus:     [ Computer Vision, Deep Learning, Edge AI, Reinforcement Learning ]
-domains:   [ Industrial Inspection, Automotive & ADAS, Smart City, Robotics ]
+role:      AI & Software Development Manager @ Pro Sicht
+education: BSc ×2 (Sakarya Univ. of Applied Sciences · Óbuda University, Budapest)
+           MSc, Computer Engineering
+based_in:  Sakarya, Türkiye
+focus:     [ Computer Vision, Deep Learning, Edge AI, Multimodal Models ]
+domains:   [ Industrial Inspection, Automotive & ADAS, Medical Imaging, Smart City ]
 ask_me_about:
   - Object detection & tracking (YOLOv4 → YOLOv11, DeepSORT, ByteTrack)
   - Semantic / instance segmentation (U-Net, SAM, YOLO-seg)
-  - Model deployment & acceleration (TensorRT, ONNX, Jetson)
+  - Model deployment & acceleration (TensorRT, ONNX, CUDA, Jetson)
   - Data-centric AI: auto-labeling, augmentation, dataset engineering
-currently: Building vision-based quality inspection & multimodal LLM pipelines
+currently: Vision-based quality inspection & multimodal LLM pipelines
 fun_fact:  🐎 Horse riding & traditional Turkish archery
 ```
 
@@ -45,13 +48,13 @@ fun_fact:  🐎 Horse riding & traditional Turkish archery
 <td width="50%" valign="top">
 
 ### 🏭 Industrial Vision
-Automated defect inspection and quality control for automotive manufacturing — Ford, Toyota and Aisin production lines. Basler industrial cameras, real-time TensorRT inference, PyQt operator interfaces.
+Automated defect inspection and quality control for automotive manufacturing. Industrial cameras, real-time TensorRT inference, PLC/line integration and PyQt operator interfaces built to survive a production shift.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚗 ADAS & Smart Mobility
-Lane segmentation, traffic sign detection, vehicle counting, speed estimation and zone analytics. Depth-aware detection with ZED stereo cameras for distance measurement.
+Lane segmentation, traffic sign detection, vehicle counting, speed estimation and zone analytics — plus depth-aware detection with ZED stereo cameras for real-world distance measurement.
 
 </td>
 </tr>
@@ -59,13 +62,13 @@ Lane segmentation, traffic sign detection, vehicle counting, speed estimation an
 <td width="50%" valign="top">
 
 ### 🏷️ Data-Centric AI Tooling
-Open-source utilities that remove the grind from dataset prep: auto-labeling from pretrained weights, video-to-frame slicing, label-preserving augmentation, tiling for small-object detection, and format converters between YOLO / COCO / Mask formats.
+Open-source utilities that remove the grind from dataset prep: auto-labeling from pretrained weights, video-to-frame slicing, label-preserving augmentation, tiling for small-object detection, and converters between YOLO / COCO / mask formats.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Research & Multimodal
-Vision-language models (Qwen-VL), generative approaches for data synthesis, 3D reconstruction and Gaussian splatting, plus reinforcement learning for decision-making.
+Vision-language models (Qwen-VL), generative approaches to data synthesis, 3D reconstruction and Gaussian splatting, and peer-reviewed work on medical image segmentation and classification.
 
 </td>
 </tr>
@@ -82,7 +85,7 @@ Vision-language models (Qwen-VL), generative approaches for data synthesis, 3D r
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Deep Learning & Vision**
@@ -91,13 +94,13 @@ Vision-language models (Qwen-VL), generative approaches for data synthesis, 3D r
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Deployment & Acceleration**
 
-![NVIDIA](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -109,12 +112,12 @@ Vision-language models (Qwen-VL), generative approaches for data synthesis, 3D r
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Hardware**
+**Vision Hardware**
 
 ![Jetson](https://img.shields.io/badge/Jetson%20Nano%20%2F%20Xavier-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Basler](https://img.shields.io/badge/Basler%20Pylon-0075BE?style=for-the-badge&logoColor=white)
@@ -127,13 +130,13 @@ Vision-language models (Qwen-VL), generative approaches for data synthesis, 3D r
 
 ## 🚀 Featured Projects
 
-> Star and fork counts below update automatically.
+> Star and fork counts update automatically.
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-#### 📏 [YOLO Object Detection + Distance Measurement (ZED)](https://github.com/MehmetOKUYAR/Yolo-Object-Detection-and-Distance-Measurement-with-Zed-camera)
+#### 📏 [YOLO Detection + Distance Measurement (ZED)](https://github.com/MehmetOKUYAR/Yolo-Object-Detection-and-Distance-Measurement-with-Zed-camera)
 
 Fuses YOLO detections with ZED stereo depth so every detected object comes back with a real-world distance — the building block for obstacle avoidance and robotics perception.
 
@@ -189,7 +192,7 @@ Annotation is the bottleneck in every CV project. This tracks your chosen object
 
 #### ⚡ [YOLOv7 TensorRT — Traffic Sign Detection](https://github.com/MehmetOKUYAR/yolov7_tensorrt_test)
 
-Traffic sign detector trained on a custom dataset and exported to TensorRT for real-time inference on embedded GPUs.
+Traffic sign detector trained on a custom dataset and exported to TensorRT for real-time inference on embedded GPUs. Pairs with the [TTVS Turkish Traffic Sign Dataset](https://github.com/MehmetOKUYAR/TTVS).
 
 </td>
 <td valign="top">
@@ -247,9 +250,73 @@ Lane detection model trained on a self-collected dataset — the perception laye
 | [**Slicing-Image-With-Label**](https://github.com/MehmetOKUYAR/Slicing-Image-With-Label) | Tiles large images *with* their labels so small objects survive the resize to model input size |
 | [**Augmentation_for_Yolo_labeling**](https://github.com/MehmetOKUYAR/Augmentation_for_Yolo_labeling) | Augments images and their YOLO-format annotations together, keeping boxes valid |
 | [**Convert-Mask2Yolo**](https://github.com/MehmetOKUYAR/Convert-Mask2Yolo) | Converts segmentation masks into YOLO-seg polygons — reuse old datasets on new architectures |
+| [**yolobbox2polygon**](https://github.com/MehmetOKUYAR/yolobbox2polygon) | Promotes YOLO bounding boxes to segmentation polygons using SAM-HQ |
 | [**VideoSlicing**](https://github.com/MehmetOKUYAR/VideoSlicing) | Turns raw footage into frame datasets with controllable sampling |
 | [**Train_Test_Split_txt**](https://github.com/MehmetOKUYAR/Train_Test_Split_txt) | One-shot train/test split in YOLO's expected `.txt` manifest format |
-| [**ubuntu-libs-kurulum**](https://github.com/MehmetOKUYAR/ubuntu-libs-kurulum) | Scripted CUDA/cuDNN/DL stack setup on Ubuntu — go from bare metal to training fast |
+| [**convert_dcim2png**](https://github.com/MehmetOKUYAR/convert_dcim2png) | Converts DICOM medical images to PNG for standard vision pipelines |
+| [**ubuntu-libs-kurulum**](https://github.com/MehmetOKUYAR/ubuntu-libs-kurulum) | Scripted CUDA/cuDNN/DL stack setup on Ubuntu — bare metal to training, fast |
+
+<br/>
+
+## 🧭 Experience & Education
+
+```text
+ NOW  ●  AI & Software Development Manager — Pro Sicht
+      │  AI-powered visual inspection and measurement systems for production
+      │  lines: full vision pipeline from camera to operator screen.
+      │
+      ●  MSc, Computer Engineering — Sakarya University of Applied Sciences
+      │  Deep learning for medical image segmentation & classification.
+      │
+      ●  AISET Autonomous Vehicle Community
+      │  Perception stack for autonomous driving: lane segmentation, traffic
+      │  sign detection, embedded TensorRT deployment.
+      │
+      ●  Yapay Zeka Araştırma Merkezi (YAZEM) — AI Research Center
+      │  Applied computer vision research.
+      │
+      ●  Toyota Motor Manufacturing Turkey
+      │  Automotive manufacturing & quality processes.
+      │
+      ●  Ford Otosan — Intern
+      │  Freespace (drivable-area) semantic segmentation for highway imagery.
+      │
+      ●  BSc, Electrical & Electronics Engineering — Óbuda University, Budapest
+      │
+      ●  BSc, Electrical & Electronics Engineering — Sakarya Univ. of Applied Sciences
+```
+
+<br/>
+
+## 📚 Publications
+
+**Segmentation and classification of skin burn images with artificial intelligence: Development of a mobile application**
+*Burns* (Elsevier), 2024 — Yıldız M., Sarpdağı Y., **Okuyar M.**, et al.
+Segmentation, classification and object detection on skin burn images, delivered as a mobile application for burn-degree assessment.
+[→ ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305417924000135)
+
+**Ischemia and Hemorrhage detection in CT images with hyperparameter optimization of classification models and improved U-Net segmentation model**
+*Sakarya University Journal of Computer and Information Sciences (SAUCIS)*, 2023 — **Okuyar M.**, Kamanlı A. F.
+Hyperparameter-optimized classifiers combined with an improved U-Net for stroke-related lesion segmentation in CT.
+[→ SAUCIS](https://dergipark.org.tr/en/pub/saucis/article/1259584)
+
+### 🎓 Certifications & Continued Learning
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2C9BF0?style=flat-square&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-2C9BF0?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2C9BF0?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2C9BF0?style=flat-square&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+<br/>
+
+## ✍️ Writing
+
+I write about applied computer vision on [**Medium**](https://medium.com/@mhmtokyr):
+
+- [Plastik Yüzeylerdeki Kusurların Tespiti: Sanayideki Önemi ve Yapay Zeka Çözümleri](https://medium.com/@mhmtokyr/plastik-y%C3%BCzeylerdeki-kusurlar%C4%B1n-tespiti-sanayideki-%C3%B6nemi-ve-yapay-zeka-%C3%A7%C3%B6z%C3%BCmleri-2b17b7e6a1f6)
+- [Leveraging Text-to-Image Generation Models for Enhanced AI Data Collection](https://medium.com/@mhmtokyr/leveraging-text-to-image-generation-models-for-enhanced-ai-data-collection-d4ca02e59b7e)
+- [How Artificial Intelligence is Secretly Present in Our Daily Lives](https://medium.com/@mhmtokyr/how-artificial-intelligence-is-secretly-present-in-our-daily-lives-c195efb56ebe)
 
 <br/>
 
@@ -276,11 +343,12 @@ Lane detection model trained on a self-collected dataset — the perception laye
 
 ## 🤝 Let's Collaborate
 
-I'm open to collaborating on **computer vision research, industrial AI deployments, and open-source CV tooling**. If one of the tools above saved you time, a ⭐ helps others find it too.
+I'm open to **computer vision research, industrial AI deployments, and open-source CV tooling**. If one of the tools above saved you time, a ⭐ helps others find it too.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mehmet-okuyar-ab8813139"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mehmet-okuyar-ab8813139/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mhmtokyr@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/MehmetOKUYAR?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 <br/><br/>
